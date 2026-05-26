@@ -1,0 +1,7 @@
+limit_name,limit_value,description,source_status
+single_issuer_exposure_pct,25.0,Max exposure to one issuer / capital,ASSUMPTION_PLACEHOLDER
+ecosystem_exposure_pct,40.0,Xuân Thiện ecosystem exposure / capital,ASSUMPTION_PLACEHOLDER
+daily_var_vnd_bn,60.0,1-day 95% VaR,ASSUMPTION_PLACEHOLDER
+liquidity_buffer_days,90.0,Stress liquidity survival horizon,ASSUMPTION_PLACEHOLDER
+project_min_dscr,1.2,Minimum project finance DSCR,ASSUMPTION_PLACEHOLDER
+project_min_llcr,1.35,Minimum project finance LLCR,ASSUMPTION_PLACEHOLDER

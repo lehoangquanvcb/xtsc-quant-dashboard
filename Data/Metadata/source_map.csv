@@ -1,0 +1,9 @@
+series,source_description,source_url,source_status
+GDP_GROWTH_YOY,World Bank / GSO benchmark,https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=VN,REAL_PUBLIC_BENCHMARK
+CPI_YOY,World Bank inflation / GSO benchmark,https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=VN,REAL_PUBLIC_BENCHMARK
+VNINDEX_DAILY,Investing / StockBiz historical index pages,https://vn.investing.com/indices/vn-historical-data,ASSUMPTION_PLACEHOLDER_SERIES
+VN_10Y_YIELD,VBMA / Trading Economics benchmark,https://vbma.org.vn/en/market-data/monthly-highlight,MIXED_INTERPOLATED
+YIELD_CURVE,VBMA Government Bond Yield Fixing reference,https://vbma.org.vn/en,ASSUMPTION_PLACEHOLDER_SERIES
+USDVND,SBV/market reference; placeholder curve for modeling,https://www.sbv.gov.vn/,MIXED_INTERPOLATED
+ON_RATE,SBV/interbank market reference; placeholder curve for modeling,https://www.sbv.gov.vn/,ASSUMPTION_PLACEHOLDER_SERIES
+CREDIT_GROWTH,SBV/GSO public references; placeholder monthly history,https://www.sbv.gov.vn/,ASSUMPTION_PLACEHOLDER_SERIES

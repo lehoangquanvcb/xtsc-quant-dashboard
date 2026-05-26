@@ -1,0 +1,5 @@
+instrument,asset_class,amount_vnd_bn,duration_years,yield_pct,dv01_vnd_bn_per_bp,source_status
+GOV_5Y,Government bond,1200,4.5,3.8,0.045,ASSUMPTION_PLACEHOLDER
+GOV_10Y,Government bond,900,8.2,4.3,0.082,ASSUMPTION_PLACEHOLDER
+CORP_A,Corporate bond,750,2.8,8.6,0.028,ASSUMPTION_PLACEHOLDER
+INTERBANK,Interbank placement,450,0.1,4.1,0.001,ASSUMPTION_PLACEHOLDER
